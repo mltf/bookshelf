@@ -53,6 +53,7 @@ Index                | Title
 33     | [Building Machine Learning Projects with TensorFlow.pdf](/Machine%20Leraning/Building%20Machine%20Learning%20Projects%20with%20TensorFlow.pdf)
 34     | [Bayesian Analysis with Python.pdf](/Machine%20Leraning/Bayesian%20Analysis%20with%20Python.pdf)
 35     | [Machine_Learning_A_Bayesian_and_Optimization_Perspective.pdf](/Machine%20Leraning/Machine_Learning_A_Bayesian_and_Optimization_Perspective.pdf)
+36     | [TensorFlow Machine Learning Cookbook.pdf](/Machine%20Leraning/TensorFlow%20Machine%20Learning%20Cookbook.pdf)
 
 
 ### Computer Science
