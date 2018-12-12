@@ -165,6 +165,7 @@ Index                | Title
 103                 | [Modern R Programming Cookbook.pdf](/Computer%20Science/Modern%20R%20Programming%20Cookbook.pdf)
 104                 | [Python for Everybody.pdf](/Computer%20Science/Python%20for%20Everybody.pdf)
 105                 | [Mastering Swift 4 Fourth Edition.pdf](/Computer%20Science/Mastering%20Swift%204%20Fourth%20Edition.pdf)
+106                 | [Mastering OpenCV 3 Second Edition.pdf](/Computer%20Science/Mastering%20OpenCV%203%20Second%20Edition.pdf)
 
 
 ### Math
