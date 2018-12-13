@@ -54,14 +54,15 @@ Index                | Title
 34     | [Bayesian Analysis with Python.pdf](/Machine%20Leraning/Bayesian%20Analysis%20with%20Python.pdf)
 35     | [Machine_Learning_A_Bayesian_and_Optimization_Perspective.pdf](/Machine%20Leraning/Machine_Learning_A_Bayesian_and_Optimization_Perspective.pdf)
 36     | [TensorFlow Machine Learning Cookbook.pdf](/Machine%20Leraning/TensorFlow%20Machine%20Learning%20Cookbook.pdf)
+37     | [What You Need to Know about Machine Learning.pdf](/Machine%20Leraning/What%20You%20Need%20to%20Know%20about%20Machine%20Learning.pdf)
 
 
 ### Computer Science
 
 Index                | Title
 :---:                | :---
-1                 | [A Byte of Python3(中文版).pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/A%20Byte%20of%20Python3(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
-2                 | [Advanced Penetration Testing for Highly-Secured Environments Second Edition.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Advanced%20Penetration%20Testing%20for%20Highly-Secured%20Environments%20Second%20Edition.pdf)
+1                 | [A Byte of Python3(中文版).pdf](/Computer%20Science/A%20Byte%20of%20Python3(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
+2                 | [Advanced Penetration Testing for Highly-Secured Environments Second Edition.pdf](/Computer%20Science/Advanced%20Penetration%20Testing%20for%20Highly-Secured%20Environments%20Second%20Edition.pdf)
 3                 | [Android Programming for Beginners.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Android%20Programming%20for%20Beginners.pdf)
 4                | [Arduino Development Cookbook.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Arduino%20Development%20Cookbook.pdf)
 5                 | [Building Websites with VB.NET and DotNetNuke 4.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Building%20Websites%20with%20VB.NET%20and%20DotNetNuke%204.pdf)
@@ -117,7 +118,7 @@ Index                | Title
 55                 | [Unity AI Game Programming Second Edition.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Unity%20AI%20Game%20Programming%20Second%20Edition.pdf)
 56                 | [What You Need To Know About Node.js.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/What%20You%20Need%20To%20Know%20About%20Node.js.pdf)
 57                 | [What You Need to Know about Docker.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/What%20You%20Need%20to%20Know%20about%20Docker.pdf)
-58                 | [What You Need to Know about Machine Learning.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/What%20You%20Need%20to%20Know%20about%20Machine%20Learning.pdf)
+58                 | [Industrial Cybersecurity.pdf](/Computer%20Science/Industrial%20Cybersecurity.pdf)
 59                 | [What You Need to Know about Python.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/What%20You%20Need%20to%20Know%20about%20Python.pdf)
 60                 | [What you need to know about R.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/What%20you%20need%20to%20know%20about%20R.pdf)
 61                 | [WordPress 4.x Complete.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/WordPress%204.x%20Complete.pdf)
