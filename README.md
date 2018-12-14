@@ -55,6 +55,7 @@ Index                | Title
 35     | [Machine_Learning_A_Bayesian_and_Optimization_Perspective.pdf](/Machine%20Leraning/Machine_Learning_A_Bayesian_and_Optimization_Perspective.pdf)
 36     | [TensorFlow Machine Learning Cookbook.pdf](/Machine%20Leraning/TensorFlow%20Machine%20Learning%20Cookbook.pdf)
 37     | [What You Need to Know about Machine Learning.pdf](/Machine%20Leraning/What%20You%20Need%20to%20Know%20about%20Machine%20Learning.pdf)
+38     | [tensorflow-internals(TensorFlow 内核剖析).pdf](/Machine%20Leraning/tensorflow-internals(TensorFlow%20%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90).pdf)
 
 
 ### Computer Science
