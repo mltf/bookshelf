@@ -58,6 +58,8 @@ Index                | Title
 38     | [Tensorflow-internals(TensorFlow 内核剖析).pdf](/Machine%20Leraning/tensorflow-internals(TensorFlow%20%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90).pdf)
 39     | [Foundations of Data Science, Avrim Blum, John Hopcroft, and Ravindran Kannan.pdf](/Machine%20Leraning/Foundations%20of%20Data%20Science%2C%20Avrim%20Blum%2C%20John%20Hopcroft%2C%20and%20Ravindran%20Kannan.pdf)
 40     | [An Introduction to Probabilistic Programming.pdf](/Machine%20Leraning/An%20Introduction%20to%20Probabilistic%20Programming.pdf)
+41     | [The Matrix Calculus You Need For Deep Learning.pdf](/Machine%20Leraning/The%20Matrix%20Calculus%20You%20Need%20For%20Deep%20Learning.pdf.pdf)
+
 
 
 ### Computer Science
