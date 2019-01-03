@@ -59,6 +59,7 @@ Index                | Title
 39     | [Foundations of Data Science, Avrim Blum, John Hopcroft, and Ravindran Kannan.pdf](/Machine%20Leraning/Foundations%20of%20Data%20Science%2C%20Avrim%20Blum%2C%20John%20Hopcroft%2C%20and%20Ravindran%20Kannan.pdf)
 40     | [An Introduction to Probabilistic Programming.pdf](/Machine%20Leraning/An%20Introduction%20to%20Probabilistic%20Programming.pdf)
 41     | [The Matrix Calculus You Need For Deep Learning.pdf](/Machine%20Leraning/The%20Matrix%20Calculus%20You%20Need%20For%20Deep%20Learning.pdf.pdf)
+42     | [Handbook_of_Data_Visualization.pdf](/Machine%20Leraning/Handbook_of_Data_Visualization.pdf)
 
 
 
@@ -172,6 +173,7 @@ Index                | Title
 104                 | [Python for Everybody.pdf](/Computer%20Science/Python%20for%20Everybody.pdf)
 105                 | [Mastering Swift 4 Fourth Edition.pdf](/Computer%20Science/Mastering%20Swift%204%20Fourth%20Edition.pdf)
 106                 | [Mastering OpenCV 3 Second Edition.pdf](/Computer%20Science/Mastering%20OpenCV%203%20Second%20Edition.pdf)
+107                 | [Computer Vision－Principles,Algorithms,Applications,Learning,5ed.pdf](/Computer%20Science/Computer%20Vision%EF%BC%8DPrinciples%2CAlgorithms%2CApplications%2CLearning%2C5ed.pdf)
 
 
 ### Math
