@@ -174,6 +174,7 @@ Index                | Title
 105                 | [Mastering Swift 4 Fourth Edition.pdf](/Computer%20Science/Mastering%20Swift%204%20Fourth%20Edition.pdf)
 106                 | [Mastering OpenCV 3 Second Edition.pdf](/Computer%20Science/Mastering%20OpenCV%203%20Second%20Edition.pdf)
 107                 | [Computer Vision－Principles,Algorithms,Applications,Learning,5ed.pdf](/Computer%20Science/Computer%20Vision%EF%BC%8DPrinciples%2CAlgorithms%2CApplications%2CLearning%2C5ed.pdf)
+108                 | [Algorithms, Jeff Erickson.pdf](/Computer%20Science/Algorithms%2C%20Jeff%20Erickson.pdf)
 
 
 ### Math
