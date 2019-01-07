@@ -60,7 +60,7 @@ Index                | Title
 40     | [An Introduction to Probabilistic Programming.pdf](/Machine%20Leraning/An%20Introduction%20to%20Probabilistic%20Programming.pdf)
 41     | [The Matrix Calculus You Need For Deep Learning.pdf](/Machine%20Leraning/The%20Matrix%20Calculus%20You%20Need%20For%20Deep%20Learning.pdf.pdf)
 42     | [Handbook_of_Data_Visualization.pdf](/Machine%20Leraning/Handbook_of_Data_Visualization.pdf)
-
+43     | [neural-networks-deep-learning-textbook-charu aggarwal.pdf](/Machine%20Leraning/neural-networks-deep-learning-textbook-charu%20aggarwal.pdf)
 
 
 ### Computer Science
