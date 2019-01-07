@@ -62,6 +62,8 @@ Index                | Title
 42     | [Handbook_of_Data_Visualization.pdf](/Machine%20Leraning/Handbook_of_Data_Visualization.pdf)
 43     | [neural-networks-deep-learning-textbook-charu aggarwal.pdf](/Machine%20Leraning/neural-networks-deep-learning-textbook-charu%20aggarwal.pdf)
 44     | [Causal Inference.pdf](/Machine%20Leraning/Causal%20Inference.pdf)
+45     | [Information Theory, Inference, and Learning Algorithms.pdf](/Machine%20Leraning/Information%20Theory%2C%20Inference%2C%20and%20Learning%20Algorithms.pdf)
+
 
 ### Computer Science
 
